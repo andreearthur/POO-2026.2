@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8f35344-05aa-4908-8278-240746ea11f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/poo/Aviao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/poo/Motor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/poo/TipoMotor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/poo/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/diagram.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3K4NyJIhAQ8lXTQuSn2K0q6lILu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/aluno/Downloads/POO-2026.2/Aulas/30-09-2026",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f35344-05aa-4908-8278-240746ea11f1" name="Changes" comment="" />
+      <created>1790813143369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790813143369</updated>
+      <workItem from="1790813157839" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
